@@ -28,14 +28,14 @@ const Kementrian = () => {
                                 kampus.
                             </p>
                             <div className="group-anchor">
-                                <a href="">
+                                <a href="google.com">
                                     <img
                                         className="me-5"
                                         src={ButtonGradientWarning}
                                         alt={ButtonGradientWarning}
                                     />
                                 </a>
-                                <a href="">
+                                <a href="google.com">
                                     <img
                                         src={ButtonGradientDanger}
                                         alt={ButtonGradientDanger}
