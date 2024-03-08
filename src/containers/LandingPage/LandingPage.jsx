@@ -5,6 +5,7 @@ import BlueLogo from "../../assets/img/BlueLogo.png";
 import LandingPageSelaras from "../../assets/img/LandingPage.svg";
 import "./style.css";
 import Footer from "../../components/Footer/Footer";
+import Address from "../../components/Address/Address";
 
 const LandingPage = (props) => {
     return (
@@ -16,6 +17,7 @@ const LandingPage = (props) => {
                 <div className="fastLinkLandingPage"></div>
                 <div className="newsBemLandingPage"></div>
                 <div className="progressLandingPage"></div>
+                <Address />
             </main>
             <Footer />
         </div>
